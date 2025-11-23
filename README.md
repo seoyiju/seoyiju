@@ -84,7 +84,7 @@ Socket programming, Morse code encoding/decoding, ICMP/RTT 실습.
 ---
 
 ## 📫 Contact
-📧 Email: 222zu
+📧 Email: 222zu@naver.com
 🔗 LinkedIn: https://www.linkedin.com/in/leeju-seo/ 
 
 ---
