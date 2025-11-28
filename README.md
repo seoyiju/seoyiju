@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 CNU Computer Engineering (3rd year) <br>
-  🔐 Security · Web · ML · Systems · Open Source <br>
+  🔐 Security · Web · Systems · Open Source <br>
   🛸 Interested in browser-based drone programming (React + Python + Realtime)  
 </p>
 
