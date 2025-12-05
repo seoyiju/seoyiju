@@ -79,7 +79,8 @@ Socket programming, Morse code encoding/decoding, ICMP/RTT 실습.
 - 🏆 SW/AI Creative Festival – 장려상  
 - 🏆 지역사회 문제해결 경진대회 – 장려상  
 - 🏆 Admin Web & Server Contest – 우수상  
-- 🏫 Engineering Student Council 활동  
+- 🏫 Engineering Student Council 활동
+- ⭐️ SQLD qualifications
 
 ---
 
